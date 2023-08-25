@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+#titulo {
+    display: inline-block;
+}
+
+.cold {
+    color: blue;
+}
+
+.hot {
+    color: red;
+}
+
+input {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#mensaje {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 2rem;
+    margin-top: 20px;
+}
